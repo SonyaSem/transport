@@ -1,0 +1,71 @@
+body{
+	padding:30;
+	margin: auto;
+	text-align: center;
+	background-color: #fcfdff;
+}
+
+table{
+	width: 94%;
+	text-align: left;
+	margin: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color:#070f2e;
+	border-collapse: collapse;
+}
+
+th{
+	border-style: solid;
+	border-width: 1px;
+	background: #070f2e;
+	color:#e4e7f2;
+    padding:5px;
+}
+
+tr{
+	border-width: 1px;
+	border-style: solid;
+}
+
+td{
+    padding:5px;
+}
+h2,h3{
+    color:#0f1840;
+    margin:20px;
+}
+
+select, input{
+    padding:5px;
+    margin:15px;
+    color:#070f2e;
+    width:250px;
+
+}
+
+legend{
+    font-size:24px;
+    font-style:solid;
+    color:#0f1840;
+}
+
+fieldset{
+       width:500px;
+       margin: auto;
+}
+
+.button{
+    background: #070f2e;
+    color:#e4e7f2;
+    padding:18px;
+    width:160px;
+    border-radius:10px;
+    font-size:16px
+}
+
+
+label{
+font-text:18px;
+color:#070f2e;
+}
